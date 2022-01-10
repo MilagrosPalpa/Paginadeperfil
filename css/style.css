@@ -1,0 +1,293 @@
+.contenedorprincipal{
+    border: 2px solid grey;
+    width: 500px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header{
+    background-color: rgb(139, 219, 219);
+    height: 70px;
+}
+
+.header>img{
+    width: 80px;
+    position: relative;
+    top: 30px;
+    left: 20px;
+    border: 2px solid rgb(160, 150, 150);
+    border-radius: 50%;
+    padding: 2px;
+    background-color: white;
+}
+
+.tarjetainformacion{
+    margin-top: 55px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.iconoubicacion{
+    width: 10px;
+    padding: 5px;
+}
+
+.inconoconfiguracion{
+    width: 15px;
+    padding: 5px;
+}
+
+.ciudad{
+    vertical-align: 7px;
+}
+
+.linkeditar{
+    vertical-align: 7px;
+}
+
+.skillset{
+    margin-bottom: 5px;
+}
+
+.titulouniversitario{
+    margin-top: 0;
+}
+
+.conteiner2{
+    border: 2px solid grey;
+    width: 200px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    left: 530px;
+    bottom: 330px;
+    font-family: 'Roboto', sans-serif;    
+}
+.header2{
+    background-color: rgb(58, 58, 58);
+    height: 20px; 
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    font-weight:bold;
+    font-size: 15px;
+}
+.solicitudes{
+    color: black;
+    border-radius: 60%;
+    background-color: rgb(206, 201, 201);
+    text-align: center;
+    width: 20px;
+    margin-right: 5px;
+}
+
+.tarjetainformacion2{
+    flex-direction: column;
+    height: 100px; 
+}
+
+.Todd1{
+    width: 30px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.Todd2{
+  position:relative;
+  left: 20px;
+}
+
+.Todd3{
+    width: 25px;
+    position: relative;
+    top: 8px;
+    left: 40px;
+}
+
+.Todd4{
+    width: 25px;
+    position: relative;
+    top: 8px;
+    left: 50px;
+}
+
+.Phil{
+    margin-top: 10px;
+}
+.Phil1{
+    width: 30px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.Phil2{
+  position:relative;
+  left: 20px;
+}
+
+.Phil3{
+    width: 25px;
+    position: relative;
+    top: 8px;
+    left: 48px;
+}
+
+.Phil4{
+    width: 25px;
+    position: relative;
+    top: 8px;
+    left: 58px;
+}
+
+.conteiner3{
+    border: 2px solid grey;
+    width: 200px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    left: 530px;
+    bottom: 300px;
+    font-family: 'Roboto', sans-serif;    
+}
+.header3{
+    background-color: rgb(58, 58, 58);
+    height: 20px; 
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    font-weight:bold;
+    font-size: 15px;
+}
+.conecciones{
+    color: black;
+    border-radius: 60%;
+    background-color: rgb(206, 201, 201);
+    text-align: center;
+    width: 40px;
+    margin-right: 5px;
+}
+
+.tarjetainformacion3{
+    flex-direction: column;
+    height: 170px; 
+}
+
+.Adrien1{
+    width: 30px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.Adrien2{
+  position:relative;
+  left: 20px;
+}
+
+.Anne1{
+    width: 30px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.Anne2{
+  position:relative;
+  left: 20px;
+}
+
+.Alayne1{
+    width: 30px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.Alayne2{
+  position:relative;
+  left: 20px;
+}
+
+.Arry1{
+    width: 30px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.Arry2{
+  position:relative;
+  left: 20px;
+}
+
+.bottom3{
+    height: 20px; 
+    display: flex;
+    flex-direction: row;
+    border-top: 2px solid grey;
+    padding: 10px;
+    font-weight:bold;
+    font-size: 15px;
+}
+
+.conteiner4{
+    border: 2px solid grey;
+    width: 500px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    bottom: 370px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header4{
+    background-color: rgb(58, 58, 58);
+    height: 20px; 
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    font-weight:bold;
+    font-size: 15px;
+}
+
+.tarjetainformacion4{
+    padding-left: 20px;
+    flex-direction: column;
+    height: 100px; 
+
+}
+.programa{
+    padding-top: 20px;
+    font-weight: bold;  
+}
+
+.fecha{
+    padding-top: 5px;
+    color: gray; 
+    font-size: 14px; 
+}
+
+.diplomas{
+    padding-top: 5px;
+    font-size: 14px;       
+}
+
